@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "666418127497",
+    "firebase_url": "https://rate-moi.firebaseio.com",
+    "project_id": "rate-moi",
+    "storage_bucket": "rate-moi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666418127497:android:301236a87d053d0d",
+        "android_client_info": {
+          "package_name": "com.adamsapp.rateme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666418127497-neoeu64j90k1oa2nj3h4pk4dq6meffel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adamsapp.rateme",
+            "certificate_hash": "5bb5d3d5d3d3d9be025722531fecf2e16f36fff7"
+          }
+        },
+        {
+          "client_id": "666418127497-7iknagqde13gpovoihucmbhc1u1v1a0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFYxXnaqdwBnZXiA5kyCPhBu6ZzWwDNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666418127497-7iknagqde13gpovoihucmbhc1u1v1a0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
